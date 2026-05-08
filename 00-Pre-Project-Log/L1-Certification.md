@@ -1,6 +1,6 @@
 # L1 Certification Build
 
-Find the full project here (repo link)
+Find the full project here [Stratus](https://github.com/RafiPilcher/Stratus)
 
 ## Overview
 Stratus is an high power cable scartch build, desinged to be cheap (not including the components I already had such as flight computers and GPS)
